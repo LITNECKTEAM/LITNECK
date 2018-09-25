@@ -6,7 +6,7 @@ SRS LITNECK
 كود تنصيب سورس
 ============
 
-`git clone https://github.com/LAITNEK/LAITNEK.git;cd LAITNEK;chmod +x ins;./ins`
+`git clone https://github.com/LAITNECKTEAM/LITNECK.git;cd LITNECK;chmod +x ins;./ins`
 
 كود الرن 
 ======
