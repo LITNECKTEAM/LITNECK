@@ -11,4 +11,4 @@ SRS LITNECK
 كود الرن 
 ======
 
-`./LITNECK/run
+`./LITNECK/run`
